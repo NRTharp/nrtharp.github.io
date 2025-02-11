@@ -2537,7 +2537,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #d36600;
+				background-color: #376cff;
 			}
 
 			input[type="submit"].primary:active,
