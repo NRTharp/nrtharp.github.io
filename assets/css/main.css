@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: rgb(180, 180, 180);
+		color: #ffffff;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -2450,12 +2450,12 @@ input, select, textarea {
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
-		height: 3.15em;
+		height: 2.75em;
 		height: calc(2.75em + 6px);
 		line-height: 2.75em;
 		min-width: 10em;
-		padding: 0 1.5em;
-		text-align: center;
+		padding: 0 0.5em;
+		text-align: left;
 		text-decoration: none;
 		white-space: nowrap;
 	}
